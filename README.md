@@ -1,7 +1,7 @@
 ### Hi I am Salah Abou Shahla!
 
 🧑‍💻 Junior Flutter Developer, and still learning <br/>
-👨‍🎓 A Second Year Computer Science at the BAU Lebanon 
+👨‍🎓 A Second Year Computer Science at the BAU Lebanon <br/> 
 💻 Have a Passion for coding and love it and love to learn every thing new 
 
 <!-- Github states from https://github.com/anuraghazra/github-readme-stats -->
