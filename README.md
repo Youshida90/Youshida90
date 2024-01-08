@@ -6,4 +6,4 @@
 
 <!-- Github states from https://github.com/anuraghazra/github-readme-stats -->
 
-[![Salah Abou Shahla GitHub stats](https://github-readme-stats.vercel.app/api?username=Youshida90)](https://github.com/anuraghazra/github-readme-stats)
+![Youshida GitHub stats](https://github-readme-stats.vercel.app/api?username=Youshida90&show_icons=true&theme=transparent)
