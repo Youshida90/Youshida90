@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-I' am a 2nd Year computer science who loves coding <br><br>I' am currently working on improving my flutter and UI skills and also working on improving my logic thinking more<br><br>I' am currently learning flutter but I am still in the junior level<br><br>You can ask me about how I started with flutter and why flutter<br><br>
+I' am a 3rd Year computer science who loves coding <br><br>I' am currently working on improving my flutter and UI skills and also working on improving my logic thinking more<br><br>I' am currently learning flutter but I am still in the junior level<br><br>You can ask me about how I started with flutter and why flutter<br><br>
 I participated in the LCPC <br><br> 
 I solved some problems on the codeforces <br><br> [![Codeforces](https://img.shields.io/badge/Codeforces-%23E4405F.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/Salah2005)
 
